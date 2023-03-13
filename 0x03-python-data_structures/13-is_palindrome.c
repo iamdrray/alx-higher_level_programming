@@ -1,8 +1,3 @@
-lines (64 sloc)  1.35 KB
-/*
- * File: 13-is_palindrome.c
- */
-
 #include "lists.h"
 
 listint_t *reverse_listint(listint_t **head);
